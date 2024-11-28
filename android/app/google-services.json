@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "665418154669",
+    "project_id": "stone-budget",
+    "storage_bucket": "stone-budget.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665418154669:android:acfd668dc6190b52a63c24",
+        "android_client_info": {
+          "package_name": "com.stone.budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665418154669-vale1bgi0h7cao366bq8c752q19763v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYYeKJEEM1qEBEKhP_vy5EAfmXq585bLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665418154669-vale1bgi0h7cao366bq8c752q19763v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665418154669-74c0ccf9oc8hge6o51akacujpvigl9ls.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stone.budget"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
